@@ -1,7 +1,7 @@
 # Video Game - Unity
 
 Authors :   
-- Mines Nancy : Hugo Steiger, Augustin Hussenet, Clément Étoré, Louis Moreau, Reda Kaouri, Florian Dupont, Linxue LAI  
+- Mines Nancy : Hugo Steiger, Augustin Hussenet, Clément Étoré, Louis Moreau, Reda Kaouri, Florian Dupont, Linxue Lai  
 - ENSAD : Margot Rabbe, Daria Bobkevitch, Zhichun Lai 
 
 Video game links (in French): 
